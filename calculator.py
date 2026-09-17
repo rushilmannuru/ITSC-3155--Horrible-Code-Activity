@@ -1,3 +1,2 @@
 class Calculator:
-
-    pass
+    """Performs basic mathematical operations."""
